@@ -14,7 +14,7 @@ def test_login_exitoso():
     driver.get("https://www.saucedemo.com/")
 
 
-#input( “Presiona una tecla para entrar…”)
+#Input( “Presiona una tecla para entrar…” usualmente no requerido, se cierra solo al ingresar por consola)
 
 
     time.sleep(2)
